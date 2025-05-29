@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 ## Description
 
 1.  Name:           cleanup_dir
